@@ -33,7 +33,7 @@ Make sure you have the following dependencies installed:
    
 ##Testing
 
-     This Python script (`gui.py`) provides a graphical user interface (GUI) for testing the trained deep learning model used for gender and age prediction. The model has been fine-tuned on the UTKFace dataset and is loaded from the 'model.h5' file.
+The Python script (`gui.py`) provides a graphical user interface (GUI) for testing the trained deep learning model used for gender and age prediction. The model has been fine-tuned on the UTKFace dataset and is loaded from the 'model.h5' file.
 
 ## Requirements
 
